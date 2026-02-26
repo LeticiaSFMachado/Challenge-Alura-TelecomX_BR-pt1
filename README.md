@@ -31,7 +31,8 @@ Análise Categórica: Identificação de taxas de churn por tipo de contrato e m
 
 Análise de Densidade (KDE Plot): Visualização da distribuição de tempo de casa (tenure) e faturamento mensal.
 
-💡 Principais Insights
+💡 Principais Insights:
+
 Risco Inicial: Clientes com baixo tenure (tempo de casa) possuem uma densidade de cancelamento muito maior, indicando que os primeiros meses de contrato são críticos.
 
 Sensibilidade a Preço: Há uma correlação visual entre mensalidades mais elevadas e o aumento da taxa de evasão.
